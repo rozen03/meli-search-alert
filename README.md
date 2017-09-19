@@ -1,1 +1,1 @@
-# meli-search-alert
+# meli-price-suggest
